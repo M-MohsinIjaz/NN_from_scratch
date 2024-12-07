@@ -51,7 +51,7 @@ Each subdirectory (0-9) contains grayscale images of corresponding class labels.
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/neural-network-from-scratch.git
+   git clone https://github.com/M-MohsinIjaz/NN_from_scratch.git
    cd neural-network-from-scratch
    ```
 
